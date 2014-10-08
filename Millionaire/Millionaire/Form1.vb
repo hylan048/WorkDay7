@@ -23,6 +23,7 @@ Public Class Form1
             numYears += 1
         Loop
 
+
         txtWhen.Text = "In " & numYears & " years you will have a million dollars."
     End Sub
 End Class

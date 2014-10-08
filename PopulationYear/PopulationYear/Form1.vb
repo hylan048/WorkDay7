@@ -10,6 +10,7 @@ Public Class Form1
             p = p / 2
             year -= 50
 
+
         Loop
         MessageBox.Show("The year is " & year)
 
